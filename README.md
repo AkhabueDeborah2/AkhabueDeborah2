@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Deborah Favour Akhabue and I'm a Data Analyst specializing in Healthcare Analytics, from Nigeria</h2>
+<h2 align="left">Hi 👋! Deborah Favour Akhabue here, your Healthcare Data Analyst, from Nigeria</h2>
 
 ###
 
