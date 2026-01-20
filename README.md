@@ -29,9 +29,9 @@ Before learning SQL and Python, I was already working with audits, reports, docu
 
 I am particularly interested in projects that connect analytics to patient safety, operational efficiency, and evidence-based decision-making.
 
-# :link: Core Skills & Competencies (Healthcare Data Analytics) :hammer_and_wrench:
+# Core Skills & Competencies (Healthcare Data Analytics) :hammer_and_wrench:
 
-## *Healthcare Intelligence & Data Visualization
+## * Healthcare Intelligence & Data Visualization
      - Power BI (Healthcare Dashboards & Reporting)
      - Excel (Operational and Clinical Reporting)
      - Healthcare Data Storytelling
