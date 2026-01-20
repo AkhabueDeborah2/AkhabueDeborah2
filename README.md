@@ -30,7 +30,7 @@ Before learning SQL and Python, I was already working with audits, reports, docu
 I am particularly interested in projects that connect analytics to patient safety, operational efficiency, and evidence-based decision-making.
 
 
-# Healthcare Analytics Domains
+# Healthcare Analytics Domains :brain:
 
   - Clinical Data Management
 
@@ -44,3 +44,38 @@ I am particularly interested in projects that connect analytics to patient safet
 
  
 
+# Technical & Analytical Skills :hammer_and_wrench:
+
+  - SQL (PostgreSQL, Microsoft SQL Server, MySQL)
+
+  * Python for Data Analysis
+
+  + Data Cleaning, Validation, and Quality Assurance
+
+  - Exploratory Data Analysis (EDA)
+
+  * Descriptive Statistics
+
+  + Data Visualization and Insight Communication
+
+  - KPI Tracking and Performance Monitoring
+
+  * Data Documentation and Reporting
+
+
+
+# Clinical Systems & Healthcare Platforms :hospital:
+
+  - Electronic Medical Record (EMR/EHR) Systems
+
+  * Perioperative and Surgical Workflow Systems
+
+  + Operating Room Information Systems (ORIS)
+
+  - Clinical Documentation and Scheduling Systems
+
+  * Clinical Audit and Reporting Modules
+
+
+# Certification :trophy:
+  - [DataCamp Certified Data Analyst]: https://www.datacamp.com/certificate/DA0020664997847
