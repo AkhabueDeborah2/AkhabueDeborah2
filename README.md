@@ -78,4 +78,4 @@ I am particularly interested in projects that connect analytics to patient safet
 
 
 # Certification :trophy:
-  - [DataCamp Certified Data Analyst]: https://www.datacamp.com/certificate/DA0020664997847
+  - [DataCamp Certified Data Analyst] (https://www.datacamp.com/certificate/DA0020664997847)
