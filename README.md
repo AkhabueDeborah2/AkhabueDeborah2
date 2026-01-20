@@ -63,6 +63,22 @@ I am particularly interested in projects that connect analytics to patient safet
   * Data Documentation and Reporting
 
 
+# Soft Skills
+
+  - Clinical and Analytical Thinking
+
+  * Clear Communication Across Technical and Non-Technical Teams
+
+  + Problem Solving
+
+  - Attention to Detail
+
+  * Documentation and Process Improvement
+
+  + Collaboration with Multidisciplinary Teams
+
+  - Continuous Learning
+
 
 # Clinical Systems & Healthcare Platforms :hospital:
 
@@ -79,3 +95,45 @@ I am particularly interested in projects that connect analytics to patient safet
 
 # Certification :trophy:
  - DataCamp Certified: Data Analyst: [Link](https://www.datacamp.com/certificate/DA0020664997847)
+
+
+# Data Analytics Projects :books:
+
+
+# Professional Goals :dart:
+
+  - Deepen expertise in healthcare and clinical data analytics
+
+  * Contribute to data-driven improvements in patient outcomes and operational efficiency
+
+  + Build impactful analytics projects with real-world healthcare applications
+
+  - Collaborate with multidisciplinary teams on research and analytics initiatives
+
+  * Grow into advanced roles in healthcare analytics and research insight
+
+
+# My Services :purple_puzzle:
+
+  - Healthcare Data Analysis & Reporting
+
+  * SQL-Based Data Exploration
+
+  + Data Cleaning & Validation for Research Datasets
+
+  - Operational Efficiency Analysis (e.g., Operating Room workflows)
+
+  * Data Documentation & Insight Summaries
+
+  + Beginner-Friendly Analytics Support for Healthcare Professionals
+
+Open to collaboration on healthcare analytics, research, and operational improvement projects.
+
+
+# Connect With Me :link:
+
+LinkedIn: [https://www.linkedin.com/in/deborahfavourakhabue]
+
+GitHub: Follow my work and projects here
+
+Email: [mailto:akhabuedeborah2@gmail.com]
