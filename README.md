@@ -15,3 +15,17 @@
 </div>
 
 ###
+
+
+# Mission :dart:
+
+To improve clinical outcomes, operational efficiency, and research insight in healthcare by applying data-driven analysis grounded in real-world clinical experience.
+
+# About Me :woman_technologist:
+
+I am a DataCamp Certified Data Analyst and a Senior Perioperative Nurse with over 15 years of experience working in real healthcare environments. My work sits at the intersection of clinical practice, healthcare operations, and data analytics.
+
+Before learning SQL and Python, I was already working with audits, reports, documentation, workflow reviews, and outcome tracking. Analytics gave structure and clarity to work I had been doing informally for years. Today, I use data to help healthcare teams understand what is happening in their systems and where improvement is possible.
+
+I am particularly interested in projects that connect analytics to patient safety, operational efficiency, and evidence-based decision-making.
+
