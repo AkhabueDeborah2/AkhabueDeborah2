@@ -2,12 +2,11 @@
 
 
 <h2 align="center">
-Healthcare Data Analytics
-</h2>
-
-<p align="center">
+<strong>Healthcare Data Analytics</strong> |
+<span style="font-weight: 400;">
 Translating real-world clinical data into actionable healthcare insights
-</p>
+</span>
+</h2>
 
 <p align="center">
 <strong>Where healthcare meets data</strong>
