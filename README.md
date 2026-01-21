@@ -113,7 +113,7 @@ I am particularly interested in projects that connect analytics to patient safet
   * Grow into advanced roles in healthcare analytics and research insight
 
 
-# My Services :purple_puzzle:
+# My Services :white_check_mark:
 
   - Healthcare Data Analysis & Reporting
 
@@ -132,8 +132,6 @@ Open to collaboration on healthcare analytics, research, and operational improve
 
 # Connect With Me :link:
 
-LinkedIn: [https://www.linkedin.com/in/deborahfavourakhabue]
+[LinkedIn] (https://www.linkedin.com/in/deborahfavourakhabue)
 
-GitHub: Follow my work and projects here
-
-Email: [mailto:akhabuedeborah2@gmail.com]
+[Email] (mailto:akhabuedeborah2@gmail.com)
