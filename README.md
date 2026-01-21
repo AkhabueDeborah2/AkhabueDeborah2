@@ -63,7 +63,7 @@ I am particularly interested in projects that connect analytics to patient safet
   * Data Documentation and Reporting
 
 
-# Soft Skills
+# Soft Skills :handshake:
 
   - Clinical and Analytical Thinking
 
@@ -132,6 +132,7 @@ Open to collaboration on healthcare analytics, research, and operational improve
 
 # Connect With Me :link:
 
-[LinkedIn] (https://www.linkedin.com/in/deborahfavourakhabue)
+[LinkedIn](https://www.linkedin.com/in/deborahfavourakhabue)
 
-[Email] (mailto:akhabuedeborah2@gmail.com)
+[Email](mailto:akhabuedeborah2@gmail.com)
+
