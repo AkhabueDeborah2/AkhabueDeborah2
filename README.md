@@ -1,9 +1,18 @@
 <h2 align="left">Hi 👋! Deborah Favour Akhabue here, your Healthcare Data Analyst</h2>
 
 
-## Healthcare Data Analytics | Translating real-world clinical data into actionable healthcare insights  
-**Where healthcare meets data**  
-*Insights at the intersection of care and analytics*
+<h2 align="center">
+Healthcare Data Analytics | Translating real-world clinical data into actionable healthcare insights
+</h2>
+
+<p align="center">
+<strong>Where healthcare meets data</strong>
+</p>
+
+<p align="center">
+<em>Insights at the intersection of care and analytics</em>
+</p>
+<hr>
 
 
 ###
