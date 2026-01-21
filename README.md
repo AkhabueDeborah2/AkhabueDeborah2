@@ -9,7 +9,7 @@ Translating real-world clinical data into actionable healthcare insights
 </h2>
 
 <p align="center">
-<strong>Where healthcare meets data</strong>
+<span style="font-size: 1.1em;"><strong>Where healthcare meets data</strong></span>
 </p>
 
 <p align="center">
@@ -19,6 +19,7 @@ Translating real-world clinical data into actionable healthcare insights
 
 
 ###
+
 
 <div align="left">
   <a href="mailto:akhabuedeborah2@gmail.com" target="_blank">
