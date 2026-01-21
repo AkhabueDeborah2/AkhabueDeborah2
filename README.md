@@ -9,7 +9,7 @@ Translating real-world clinical data into actionable healthcare insights
 </h2>
 
 <p align="center">
-<span style="font-size: 1.2em;"><strong>Where healthcare meets data</strong></span>
+<span style="font-size: 1.5em;"><strong>Where healthcare meets data</strong></span>
 </p>
 
 <p align="center">
