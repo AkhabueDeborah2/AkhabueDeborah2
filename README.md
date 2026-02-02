@@ -119,6 +119,11 @@ I am particularly interested in projects that connect analytics to patient safet
 # Data Analytics Projects :books:
 
 
+- [Healthcare Business Intelligence | Revenue Strategy Simulation](https://github.com/AkhabueDeborah2/healthcare-revenue-strategy-simulation): This repository hosts the Completed strategic simulation
+
+
+
+
 # Professional Goals :dart:
 
   - Deepen expertise in healthcare and clinical data analytics
