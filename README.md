@@ -46,7 +46,7 @@ I am a DataCamp Certified Data Analyst and a Senior Perioperative Nurse with ove
 
 Before learning SQL and Python, I was already working with audits, reports, documentation, workflow reviews, and outcome tracking. Analytics gave structure and clarity to work I had been doing informally for years. Today, I use data to help healthcare teams understand what is happening in their systems and where improvement is possible.
 
-I am particularly interested in projects that connect analytics to patient safety, operational efficiency, and evidence-based decision-making.
+I am particularly interested in projects that connect analytics to improvement of patient care, patient safety, operational efficiency, and evidence-based decision-making.
 
 
 # Healthcare Analytics Domains :brain:
