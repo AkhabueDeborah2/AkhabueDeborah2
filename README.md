@@ -121,7 +121,7 @@ I am particularly interested in projects that connect analytics to patient safet
 
 - [Healthcare Business Intelligence | Revenue Strategy Simulation](https://github.com/AkhabueDeborah2/healthcare-revenue-strategy-simulation): This repository contains a completed healthcare business intelligence simulation developed for portfolio purposes.
 
-
+- [Healthcare Analytics | Hospital Encounters Analysis](https://github.com/AkhabueDeborah2/hospital-encounters-analysis): This repository contains a completed healthcare analytics case study developed for portfolio purposes, exploring hospital encounter trends, coverage gaps, and readmission patterns using MySQL and Power BI.
 
 
 # Professional Goals :dart:
