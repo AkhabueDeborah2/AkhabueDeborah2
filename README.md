@@ -116,7 +116,7 @@ I am particularly interested in projects that connect analytics to patient safet
  - DataCamp Certified: Data Analyst: [Link](https://www.datacamp.com/certificate/DA0020664997847)
 
 
-# Data Analytics Projects :books:
+# 🏥📊 Healthcare Data Analytics Projects
 
 
 - [Healthcare Business Intelligence | Revenue Strategy Simulation](https://github.com/AkhabueDeborah2/healthcare-revenue-strategy-simulation): This repository contains a completed healthcare business intelligence simulation developed for portfolio purposes.
