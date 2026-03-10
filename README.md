@@ -38,7 +38,7 @@ Translating real-world clinical data into actionable healthcare insights
 
 # Mission :dart:
 
-To improve clinical outcomes, operational efficiency, and research insight in healthcare by applying data-driven analysis grounded in real-world clinical experience.
+Delivering measurable improvements in healthcare operations through analytics grounded in 13+ years of clinical experience—turning data into decisions that actually work in real healthcare settings.
 
 # About Me :woman_technologist:
 
@@ -55,7 +55,7 @@ Clinical context. When I analyze readmissions, I know which ones are planned sta
 ### Technical skills: 
 SQL, Python, Power BI, Excel, statistical analysis, data visualization
 ### Focus areas: 
-Patient outcomes analysis, operational efficiency optimization, clinical quality metrics, resource utilization, evidence-based decision support
+Patient outcomes analysis, operational efficiency optimization, clinical quality metrics, resource utilization, evidence-based decision support  
 I'm currently seeking healthcare analytics roles where clinical expertise and data skills combine to drive real operational impact.
 
 
