@@ -42,11 +42,23 @@ To improve clinical outcomes, operational efficiency, and research insight in he
 
 # About Me :woman_technologist:
 
-I am a DataCamp Certified Data Analyst and a Senior Perioperative Nurse with over 13 years of experience working in real healthcare environments. My work sits at the intersection of clinical practice, healthcare operations, and data analytics.
+I'm a Healthcare Data Analyst with 13+ years of perioperative nursing experience. I combine clinical expertise with analytics skills to deliver measurable operational improvements in healthcare settings.
+### What I've delivered:
+•	30% improvement in OR scheduling efficiency
+•	50% improvement in surgical safety outcomes
+•	25% reduction in patient wait times
+•	Readmission analysis that identified 56% of cases were planned procedures (appropriate care) vs. 29% requiring intervention
+### My approach:
+Before transitioning to analytics, I spent over a decade working with surgical audits, clinical documentation, workflow optimization, and outcome tracking. This clinical foundation shapes how I approach data work—I don't just analyze healthcare data, I understand what it means operationally and clinically.
+### What sets my work apart:
+Clinical context. When I analyze readmissions, I know which ones are planned staged procedures vs. complications. When I see ICU costs as outliers, I recognize them as high-acuity care realities, not data errors. This domain knowledge prevents analytical mistakes and produces insights that healthcare leaders can actually act on.
+### Technical skills: 
+SQL, Python, Power BI, Excel, statistical analysis, data visualization
+### Focus areas: 
+Patient outcomes analysis, operational efficiency optimization, clinical quality metrics, resource utilization, evidence-based decision support
+I'm currently seeking healthcare analytics roles where clinical expertise and data skills combine to drive real operational impact.
 
-Before learning SQL and Python, I was already working with audits, reports, documentation, workflow reviews, and outcome tracking. Analytics gave structure and clarity to work I had been doing informally for years. Today, I use data to help healthcare teams understand what is happening in their systems and where improvement is possible.
 
-I am particularly interested in projects that connect analytics to improvement of patient care, patient safety, operational efficiency, and evidence-based decision-making.
 
 
 # Healthcare Analytics Domains :brain:
