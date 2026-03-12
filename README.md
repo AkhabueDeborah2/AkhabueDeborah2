@@ -44,10 +44,9 @@ Delivering measurable improvements in healthcare operations through analytics gr
 
 I'm a Healthcare Data Analyst with 13+ years of perioperative nursing experience. I combine clinical expertise with analytics skills to deliver measurable operational improvements in healthcare settings.
 ### What I've delivered:
-•	30% improvement in OR scheduling efficiency
-•	50% improvement in surgical safety outcomes
-•	25% reduction in patient wait times
-•	Readmission analysis that identified 56% of cases were planned procedures (appropriate care) vs. 29% requiring intervention
+•	30% improvement in OR scheduling efficiency  
+•	25% reduction in patient wait times  
+•	Readmission analysis that identified 56% of cases were planned procedures (appropriate care) vs. 29% requiring intervention  
 ### My approach:
 Before transitioning to analytics, I spent over a decade working with surgical audits, clinical documentation, workflow optimization, and outcome tracking. This clinical foundation shapes how I approach data work—I don't just analyze healthcare data, I understand what it means operationally and clinically.
 ### What sets my work apart:
